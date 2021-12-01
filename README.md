@@ -12,6 +12,8 @@
 
 ## 2. GuessTheFlag
 
+В этом втором проекте создаем игру в которой нужно угадать флаг страны. Что использовано: VStack, Image, LinearGradient и другое.
+
 <img width="552" alt="GuessTheFlag" src="https://user-images.githubusercontent.com/56388642/144229216-f6ca8e3c-aa13-4214-a077-d7cc60ff602b.png">
 
 
